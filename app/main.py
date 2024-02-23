@@ -1,4 +1,4 @@
-# Boilerplate code - Setting up streamlit on Gemini Pro model
+# Setting up streamlit on Gemini Pro model
 
 # import all dependencies
 import vertexai
